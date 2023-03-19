@@ -1,0 +1,317 @@
+article{
+    margin-top: 50px;
+}
+section.sec1{
+    /* display: flex; */
+    /* overflow: hidden; */
+    padding-top: 50px;
+}
+div.sec1-pic{
+    height: 591px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(../images/food/1.png);
+}
+
+div.sec1-pic img{
+    width: 100%;
+}
+
+/*sec1-content*/
+.sec1-content{
+    /* width: 30%; */
+    font-family: HanaMin;
+    text-align: right;
+}
+.sec1-content div.text1 p{
+    font-size: 3.2rem;
+    background-color: #C64440;
+    padding: 20px;
+    display: inline-block;
+    color: white;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.sec1-content div.text2 p{
+    font-size: 3.2rem;
+    background-color: #C64440;
+    padding: 20px;
+    display: inline-block;
+    color: white;
+    border-radius: 5px;
+}
+
+.sec1-content div.text3 p{
+    font-size: 3.2rem;
+    background-color: #C64440;
+    padding: 20px;
+    display: inline-block;
+    color: white;
+    margin-bottom: 50px;
+    border-radius: 5px;
+}
+.sec1-content div.text4 p{
+    font-size: 2rem;
+    line-height: 1.6;
+    margin-right: 40px;
+}
+div.line img{
+    width: 45px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+/**/
+.sec2{
+    margin-top: 80px;
+    /* display: flex; */
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+    border-bottom: 1px solid black;
+}
+
+div.sec2-pic{
+    height: 591px;
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(../images/food/2.png);
+}
+.sec2-content{
+    /* width: 30%; */
+    font-family: HanaMin;
+    /* text-align: right; */
+}
+.sec2-content div.text1 p{
+    font-size: 3.2rem;
+    background-color: #684B42;
+    padding: 20px;
+    display: inline-block;
+    color: white;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.sec2-content div.text2 p{
+    font-size: 3.2rem;
+    background-color: #684B42;
+    padding: 20px;
+    display: inline-block;
+    color: white;
+    border-radius: 5px;
+}
+
+.sec2-content div.text3 p{
+    font-size: 3.2rem;
+    background-color: #684B42;
+    padding: 20px;
+    display: inline-block;
+    color: white;
+    margin-bottom: 50px;
+    border-radius: 5px;
+}
+.sec2-content div.text4 p{
+    font-size: 2rem;
+    line-height: 1.6;
+    margin-left: 40px;
+}
+div.line img{
+    width: 45px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+
+/*sec3-----------------------*/
+.sec3{
+    position: relative;
+    border-bottom: 1px solid black;
+    padding-bottom: 50px;
+}
+.sec3 div.pic{
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+.sec3 div.pic1{
+    width: 15%;
+}
+.sec3 div.pic2{
+    width: 15%;
+}
+
+.sec3 div.pic3{
+    width: 30%;
+}
+.sec3 div.pic4{
+    width: 15%;
+}
+.sec3 div.pic5{
+    width: 15%;
+}
+div.pic img{
+    width: 100%;
+}
+
+.sec3 div.pic2 span{
+    text-align: right;
+    width: 100px;
+    height: 1px;
+    background-color: black;
+    display: block;
+}
+
+.sec3 h3{
+    font-family: HanaMin;
+    text-align: center;
+    font-size: 4rem;
+    margin-bottom: 30px;
+}
+
+.sec3 h4.left{
+    position: absolute;
+    top: 120px;
+    left: 250px;
+    display: inline-block;
+    font-size: 3.2rem;
+    padding-left: 60px;
+    padding-bottom: 8px;
+    border-bottom: 3px solid black;
+}
+
+.sec3 h4.right{
+    position: absolute;
+    top: 120px;
+    right: 250px;
+    display: inline-block;
+    font-size: 3.2rem;
+    padding-right: 60px;
+    padding-bottom: 8px;
+    border-bottom: 3px solid black;
+}
+
+.sec3 a{
+    text-decoration: none;
+    color: black;
+}
+
+
+/*sec4-----------------*/
+.sec4{
+    margin-top: 50px;
+}
+.sec4-top{
+    display: flex;
+    justify-content: center;
+}
+.sec4 h4{
+    text-align: center;
+    font-size: 4rem;
+    margin-bottom: 30px;
+    font-family: HanaMin;
+}
+.text-top{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.text-top p{
+    line-height: 1.6;
+    font-size: 2rem;
+    font-family: HanaMin;
+    /* text-align: center; */
+}
+.text-bottom p{
+    line-height: 1.6;
+    font-size: 2rem;
+    font-family: HanaMin;
+    /* text-align: center; */
+}
+
+div.left{
+    width: 31.3333%;
+    margin-right: 1%;
+    margin-left: 1%;
+    text-align: center;
+}
+
+div.left img{
+    margin-top: 50px;
+}
+
+div.center{
+    width: 31.3333%;
+    margin-right: 1%;
+    margin-left: 1%;
+}
+div.right{
+    width: 31.3333%;
+    margin-right: 1%;
+    margin-left: 1%;
+}
+div.center img, div.right img{
+    width: 100%;
+}
+
+
+/*sec5----------------------------------*/
+.sec5 div.pic-block{
+    margin-top: 50px;
+}
+.sec5 div.pic{
+    text-align: center;
+    width: 100%;
+    height: 549px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(../images/food/8.png);
+}
+.sec5 div.pic a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    font-size: 6.4rem;
+    line-height: 549px;
+    transition: 0.5s;
+}
+.sec5 div.pic a:hover{
+    font-size: 7rem;
+    color: black;
+    background-color: rgba(255, 255, 255, 0.639);
+}
+
+
+
+/*sec6*/
+.sec6{
+    display: flex;
+    margin-top: 50px;
+}
+
+.sec6-left{
+    width: 31.3333%;
+    margin-right: 1%;
+    margin-left: 1%;
+}
+.sec6-center{
+    width: 31.3333%;
+    margin-right: 1%;
+    margin-left: 1%;
+}
+
+.sec6-right{
+    margin-top: 50px;
+    text-align: center;
+    width: 31.3333%;
+    margin-right: 1%;
+    margin-left: 1%;
+}
+.sec6-left img,.sec6-center img{
+    width: 100%;
+}
+
+
+
+
